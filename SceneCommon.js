@@ -1,5 +1,8 @@
 
-
+// SeongHyeon Lee
+// CS099 Final Project - Make a Game
+// CS099
+// Spring 2020.7.08
 function DrawTitle(label){
     push();
     textAlign(CENTER);

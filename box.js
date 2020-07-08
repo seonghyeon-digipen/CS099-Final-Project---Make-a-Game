@@ -1,3 +1,7 @@
+// SeongHyeon Lee
+// CS099 Final Project - Make a Game
+// CS099
+// Spring 2020.7.08
 class Box {
   constructor(x, y, w, h) {
     this.x = x
