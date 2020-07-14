@@ -1,3 +1,7 @@
+// SeongHyeon Lee
+// CS099 Final Project - Make a Game
+// CS099
+// Spring 2020.7.08
 class target {
 constructor(x,y,z){
 this.x = x
